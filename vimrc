@@ -15,11 +15,9 @@ set autoindent
 set expandtab
 set smarttab
 
-colorscheme peachpuff 
-set guifont=Lucida_Console:h9
 set number
 set list!
-set listchars=tab:\|·
+set listchars=tab:\|ï¿½
 set autoread
 map <F2> f\r/
 map <F3> :s!\n!! <ENTER>
