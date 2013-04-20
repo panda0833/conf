@@ -1,0 +1,5 @@
+#git export 
+git clone https://github.com/singh0833/conf.git
+rm -rf .git 
+
+#git 
